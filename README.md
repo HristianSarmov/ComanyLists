@@ -3,17 +3,17 @@ The project is made to be an application with a database of people with all the 
 
 The project uses:
 
-JavaFX - 13;
+JavaFX - 13
 
-OpenJDK - 12;
+OpenJDK - 12
 
-SQLite - for local based databese;
+SQLite - for local based databese
 
-MariaDB - 10.3.27;
+MariaDB - 10.3.27
 
-Gradle - 6.7;
+Gradle - 6.7
 
-Netbeans;
+Netbeans
 
 Scene Builder
 
