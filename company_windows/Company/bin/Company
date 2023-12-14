@@ -1,0 +1,9 @@
+#!/bin/sh
+SCRIPT_NAME=$(basename "$0")
+APP_NAME=${SCRIPT_NAME%.sh}
+
+DIR="${0%/*}"
+
+
+
+"$DIR/java" $CDS_JVM_OPTS -cp sqlite-jdbc-3.34.0.jar -p "$DIR/../app" -m Company/org.openjfx.Main  "$@"
