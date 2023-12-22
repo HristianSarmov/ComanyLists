@@ -60,10 +60,10 @@ Go to the projects page in http://frostlite.blinklab.com/ and follow the instuct
 ![java4](https://github.com/HristianSarmov/CompanyLists/assets/137688109/63854f75-3ac4-42f9-a954-4a5a5effd63d)
 
 
+
+![java3](https://github.com/HristianSarmov/CompanyLists/assets/137688109/b2454277-97cb-4d98-9585-b93cd299a681)
+
+
 ## Contact me:
 
 https://linktr.ee/hristian_sarmov
-
-
-
-![java3](https://github.com/HristianSarmov/CompanyLists/assets/137688109/b2454277-97cb-4d98-9585-b93cd299a681)
