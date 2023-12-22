@@ -42,7 +42,9 @@ support for both Windows and Linux.
  - Scene Builder
  - Linux/Windows build with integrated java and other libraries with jlink
 
-How to get started with the application is explained in more datail in the readme file inside the project intself.
+## How to get started 
+
+Go to the projects page in http://frostlite.blinklab.com/ and follow the instuctions.
 
 ## Functionality showcase: 
 
@@ -54,6 +56,9 @@ How to get started with the application is explained in more datail in the readm
 ![java2](https://github.com/HristianSarmov/CompanyLists/assets/137688109/73332e66-1bbf-43d9-953e-847ea871cf77)
 
 
+## Contact me:
+
+https://linktr.ee/hristian_sarmov
 
 ![java4](https://github.com/HristianSarmov/CompanyLists/assets/137688109/63854f75-3ac4-42f9-a954-4a5a5effd63d)
 
